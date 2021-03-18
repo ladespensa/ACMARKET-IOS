@@ -1,0 +1,6 @@
+framework module Pods_PolarIOSTests {
+  umbrella header "Pods-PolarIOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

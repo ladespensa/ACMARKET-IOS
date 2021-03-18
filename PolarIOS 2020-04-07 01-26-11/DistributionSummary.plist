@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PolarIOS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>43CC1221A94542FC26D00E48A4A228EAF9EE6BCD</string>
+				<key>dateExpires</key>
+				<string>3/22/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>43CC1221A94542FC26D00E48A4A228EAF9EE6BCD</string>
+						<key>dateExpires</key>
+						<string>3/22/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JC7FF53NVY</string>
+						<key>name</key>
+						<string>Jose Carlos Ruiz Garcia</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>43CC1221A94542FC26D00E48A4A228EAF9EE6BCD</string>
+						<key>dateExpires</key>
+						<string>3/22/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JC7FF53NVY</string>
+						<key>name</key>
+						<string>Jose Carlos Ruiz Garcia</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>43CC1221A94542FC26D00E48A4A228EAF9EE6BCD</string>
+						<key>dateExpires</key>
+						<string>3/22/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JC7FF53NVY</string>
+						<key>name</key>
+						<string>Jose Carlos Ruiz Garcia</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>43CC1221A94542FC26D00E48A4A228EAF9EE6BCD</string>
+						<key>dateExpires</key>
+						<string>3/22/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JC7FF53NVY</string>
+						<key>name</key>
+						<string>Jose Carlos Ruiz Garcia</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JC7FF53NVY.gesdes.com.PolarIOS</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JC7FF53NVY</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>PolarIOS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>032e6cef-b997-4ad0-b030-400efca503bf</string>
+				<key>name</key>
+				<string>POLARIOS</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JC7FF53NVY</string>
+				<key>name</key>
+				<string>Jose Carlos Ruiz Garcia</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
